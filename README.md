@@ -1,3 +1,3 @@
 # Icons Storage :framed_picture:
 
-Some icons allowed for free use.
+Icons from OuroWeb repository allowed for personal use.
