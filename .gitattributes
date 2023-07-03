@@ -1,7 +1,7 @@
 *.ps linguist-vendored
 *.vsd linguist-vendored
 *.db linguist-vendored
-*.vsd linguist-vendored
+*.cdr linguist-vendored
 
 *.pdf linguist-vendored
 *.psd linguist-vendored
