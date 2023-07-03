@@ -2,9 +2,11 @@
 *.vsd linguist-vendored
 *.db linguist-vendored
 *.vsd linguist-vendored
+
 *.pdf linguist-vendored
 *.psd linguist-vendored
 *.eps linguist-vendored
+
 *.png linguist-vendored
 *.gif linguist-vendored
 *.jpg linguist-vendored
