@@ -1,1 +1,9 @@
 *.ps linguist-vendored
+*.vsd linguist-vendored
+*.db linguist-vendored
+*.vsd linguist-vendored
+
+*.png linguist-vendored
+*.gif linguist-vendored
+*.jpg linguist-vendored
+*.jpeg linguist-vendored
