@@ -7,3 +7,5 @@
 *.gif linguist-vendored
 *.jpg linguist-vendored
 *.jpeg linguist-vendored
+*.ico linguist-vendored
+*.bmp linguist-vendored
