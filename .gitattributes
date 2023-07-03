@@ -13,3 +13,5 @@
 *.jpeg linguist-vendored
 *.ico linguist-vendored
 *.bmp linguist-vendored
+
+*.html linguist-vendored
